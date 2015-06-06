@@ -1,0 +1,24 @@
+#search {
+	position: absolute;
+	top: -50px;
+	left: 550px;
+}
+
+input[type="button"], input[type="submit"] {
+	background: #0AA5A9;
+	font-weight: bold;
+	display: inline-block;
+	padding: 5px 10px 6px;
+	margin-bottom: 5px;
+	color: #fff;
+	text-decoration: none;
+	line-height: 1;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-moz-box-shadow: 0 1px 3px rgba(0,0,0,0.5);
+	-webkit-box-shadow: 0 1px 3px rgba(0,0,0,0.5);
+	text-shadow: 0 -1px 1px rgba(0,0,0,0.25);
+	border: none;
+	position: relative;
+	cursor: pointer;
+}
